@@ -1,2 +1,2 @@
-# bestProject
+# BestPractices
 java with best program
