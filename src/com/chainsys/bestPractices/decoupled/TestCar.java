@@ -8,11 +8,11 @@ public class TestCar {
         sWheels[0] = new SteelWheel();
         sWheels[0].location = "front left";
         sWheels[1] = new SteelWheel();
-        sWheels[0].location = "front left";
+        sWheels[1].location = "front left";
         sWheels[2] = new SteelWheel();
-        sWheels[0].location = "back left";
+        sWheels[2].location = "back left";
         sWheels[3] = new SteelWheel();
-        sWheels[0].location = "back left";
+        sWheels[3].location = "back left";
 
         Car car = new Car(pe, sWheels);
         car.startCar();
